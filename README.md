@@ -2,6 +2,8 @@
 
 # IaApp
 
+Needed to use an older version of Nx in order to get all of the different pieces to work together correctly. Since the goal is to work with a monorepo, I have built this as a monorepo should be. This is why I decided to use Nx. 
+
 This project was generated using [Nx](https://nx.dev).
 
 <p style="text-align: center;"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="450"></p>
